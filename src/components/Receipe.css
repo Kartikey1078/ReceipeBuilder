@@ -191,7 +191,7 @@ body {
   
     .recipe-table {
       width: 100%;
-      min-width: 600px;
+      min-width: 100%;
       display: block;
     }
   }
