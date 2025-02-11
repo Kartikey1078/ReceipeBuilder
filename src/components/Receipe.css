@@ -200,4 +200,10 @@ body {
   button {
     transition: all 0.3s ease-in-out;
   }
+  .error {
+    color: red;
+    font-size: 12px;
+    margin-top: 4px;
+    display: block;
+  }
   
